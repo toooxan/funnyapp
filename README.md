@@ -1,1 +1,1 @@
-# funnyapp
+# simple app, made via tkinter, that creates a pop-up window, asking the user a question (can be changed), which user wants to answer negatively to, but the button "no" (can be changed) appears in a new place after clicking on it. After 5 clicks (can be changed) the button disappears and the user has to click the only button left. Afterwards, the image pops up (you have to add the image in the directory),
